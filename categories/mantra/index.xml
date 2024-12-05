@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mantra on Saeed&#39;s Blog</title>
-    <link>https://keyboardsmash.dev/categories/mantra/</link>
+    <link>https://blog.saeedm.com/categories/mantra/</link>
     <description>Recent content in Mantra on Saeed&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Feb 2023 10:23:52 +0100</lastBuildDate>
-    <atom:link href="https://keyboardsmash.dev/categories/mantra/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.saeedm.com/categories/mantra/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Today&#39;s Mantra</title>
-      <link>https://keyboardsmash.dev/posts/today-s-mantra/</link>
+      <link>https://blog.saeedm.com/posts/today-s-mantra/</link>
       <pubDate>Wed, 01 Feb 2023 10:23:52 +0100</pubDate>
-      <guid>https://keyboardsmash.dev/posts/today-s-mantra/</guid>
-      <description>Let&amp;rsquo;s approach today differently.
-Let&amp;rsquo;s be mindful.
-Let&amp;rsquo;s not worry about the future.
-Whenever our minds wander, let&amp;rsquo;s bring them back to the present moment.
-Let&amp;rsquo;s love.
-Let&amp;rsquo;s smile.</description>
+      <guid>https://blog.saeedm.com/posts/today-s-mantra/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s approach today differently.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s be mindful.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s not worry about the future.&lt;/p&gt;
+&lt;p&gt;Whenever our minds wander, let&amp;rsquo;s bring them back to the present moment.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s love.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s smile.&lt;/p&gt;</description>
     </item>
     <item>
       <title>To remember during the bad days</title>
-      <link>https://keyboardsmash.dev/posts/to-remember-during-the-bad-days/</link>
+      <link>https://blog.saeedm.com/posts/to-remember-during-the-bad-days/</link>
       <pubDate>Mon, 16 Aug 2021 21:23:45 +0800</pubDate>
-      <guid>https://keyboardsmash.dev/posts/to-remember-during-the-bad-days/</guid>
-      <description>It won&amp;rsquo;t last.
-You have felt other things. You will feel other things again.
-Emotions are like weather. They change and shift. Clouds can seem as still as stone. We look at them and hardly notice a change at all. And yet they always move.
-The worst part of any experience is the part where you feel like you can&amp;rsquo;t take it any more. So, if you feel like you can&amp;rsquo;t take it any more, the chances are you are already at the worst point.</description>
+      <guid>https://blog.saeedm.com/posts/to-remember-during-the-bad-days/</guid>
+      <description>&lt;p&gt;&lt;em&gt;It won&amp;rsquo;t last.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You have felt other things. You will feel other things again.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Emotions are like weather. They change and shift. Clouds can seem as still as stone. We look at them and hardly notice a change at all. And yet they always move.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The worst part of any experience is the part where you feel like you can&amp;rsquo;t take it any more. So, if you feel like you can&amp;rsquo;t take it any more, the chances are you are already at the worst point. The only feelings you have left to experience are better than this one.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

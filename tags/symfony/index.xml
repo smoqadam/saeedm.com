@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>symfony on Saeed&#39;s Blog</title>
-    <link>https://keyboardsmash.dev/tags/symfony/</link>
-    <description>Recent content in symfony on Saeed&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Symfony on Saeed&#39;s Blog</title>
+    <link>https://blog.saeedm.com/tags/symfony/</link>
+    <description>Recent content in Symfony on Saeed&#39;s Blog</description>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <lastBuildDate>Sat, 11 Apr 2020 00:11:44 +0800</lastBuildDate>
-    <atom:link href="https://keyboardsmash.dev/tags/symfony/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.saeedm.com/tags/symfony/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Authenticate User in Symfony 5 by Jwt</title>
-      <link>https://keyboardsmash.dev/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</link>
+      <link>https://blog.saeedm.com/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</link>
       <pubDate>Sat, 11 Apr 2020 00:11:44 +0800</pubDate>
-      <guid>https://keyboardsmash.dev/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</guid>
+      <guid>https://blog.saeedm.com/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Nowadays, when we are talking about web development, regardless of the type of application or the programming language, one of the first things that come to mind is how to authenticate users. There are many types of authentication ways for this purpose such as login form, oAuth, JWT, API token, etc.&lt;/p&gt;
 &lt;p&gt;Reliability, security, easy to use and widely supported in many platform and languages make JWT one of the most popular authentication protocols in the web ecosystem.&lt;/p&gt;

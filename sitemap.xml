@@ -2,115 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://keyboardsmash.dev/categories/</loc>
+    <loc>https://blog.saeedm.com/categories/</loc>
     <lastmod>2024-01-31T13:54:58+01:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/tags/git/</loc>
+    <loc>https://blog.saeedm.com/tags/git/</loc>
     <lastmod>2024-01-31T13:54:58+01:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/global-gitignore/</loc>
+    <loc>https://blog.saeedm.com/posts/global-gitignore/</loc>
     <lastmod>2024-01-31T13:54:58+01:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/</loc>
+    <loc>https://blog.saeedm.com/posts/</loc>
     <lastmod>2024-01-31T13:54:58+01:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/categories/programming/</loc>
+    <loc>https://blog.saeedm.com/categories/programming/</loc>
     <lastmod>2024-01-31T13:54:58+01:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/</loc>
+    <loc>https://blog.saeedm.com/</loc>
     <lastmod>2024-01-31T13:54:58+01:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/tags/</loc>
+    <loc>https://blog.saeedm.com/tags/</loc>
     <lastmod>2024-01-31T13:54:58+01:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/journey-of-life/</loc>
+    <loc>https://blog.saeedm.com/posts/journey-of-life/</loc>
     <lastmod>2023-06-26T13:32:54+02:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/base64-implementation-in-rust-decoding/</loc>
+    <loc>https://blog.saeedm.com/posts/base64-implementation-in-rust-decoding/</loc>
     <lastmod>2023-05-25T11:53:33+02:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/tags/rust/</loc>
+    <loc>https://blog.saeedm.com/tags/rust/</loc>
     <lastmod>2023-05-25T11:53:33+02:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/implementing-base64-algorithm-in-rust/</loc>
+    <loc>https://blog.saeedm.com/posts/implementing-base64-algorithm-in-rust/</loc>
     <lastmod>2023-05-16T20:02:58+02:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/deploy-hugo-into-github-pages/</loc>
+    <loc>https://blog.saeedm.com/posts/deploy-hugo-into-github-pages/</loc>
     <lastmod>2023-02-07T14:30:15+01:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/about/</loc>
+    <loc>https://blog.saeedm.com/about/</loc>
     <lastmod>2023-02-01T11:25:26+01:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/categories/mantra/</loc>
+    <loc>https://blog.saeedm.com/categories/mantra/</loc>
     <lastmod>2023-02-01T10:23:52+01:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/today-s-mantra/</loc>
+    <loc>https://blog.saeedm.com/posts/today-s-mantra/</loc>
     <lastmod>2023-02-01T10:23:52+01:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/categories/personal/</loc>
+    <loc>https://blog.saeedm.com/categories/personal/</loc>
     <lastmod>2023-01-29T12:36:24+01:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/what-next/</loc>
+    <loc>https://blog.saeedm.com/posts/what-next/</loc>
     <lastmod>2023-01-29T12:36:24+01:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/categories/books/</loc>
+    <loc>https://blog.saeedm.com/categories/books/</loc>
     <lastmod>2022-01-05T14:36:29+01:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/books-i-loved-most-in-2021/</loc>
+    <loc>https://blog.saeedm.com/posts/books-i-loved-most-in-2021/</loc>
     <lastmod>2022-01-05T14:36:29+01:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/to-remember-during-the-bad-days/</loc>
+    <loc>https://blog.saeedm.com/posts/to-remember-during-the-bad-days/</loc>
     <lastmod>2021-08-16T21:23:45+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/doing-the-dishes-as-an-act-of-mindfullness/</loc>
+    <loc>https://blog.saeedm.com/posts/doing-the-dishes-as-an-act-of-mindfullness/</loc>
     <lastmod>2021-07-29T22:48:26+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/tags/book/</loc>
+    <loc>https://blog.saeedm.com/tags/book/</loc>
     <lastmod>2021-02-15T16:08:20+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/tags/snippets/</loc>
+    <loc>https://blog.saeedm.com/tags/snippets/</loc>
     <lastmod>2021-02-15T16:08:20+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/the-obstacle-is-the-way-by-ryan-holiday-highlights/</loc>
+    <loc>https://blog.saeedm.com/posts/the-obstacle-is-the-way-by-ryan-holiday-highlights/</loc>
     <lastmod>2021-02-15T16:08:20+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/a-few-ideas-for-your-next-go-project/</loc>
+    <loc>https://blog.saeedm.com/pages/</loc>
+    <lastmod>2021-02-13T11:25:14+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.saeedm.com/posts/a-few-ideas-for-your-next-go-project/</loc>
     <lastmod>2021-01-21T15:23:45+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/tags/go/</loc>
+    <loc>https://blog.saeedm.com/tags/go/</loc>
     <lastmod>2021-01-21T15:23:45+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/tags/idea/</loc>
+    <loc>https://blog.saeedm.com/tags/idea/</loc>
     <lastmod>2021-01-21T15:23:45+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/categories/ideas/</loc>
+    <loc>https://blog.saeedm.com/categories/ideas/</loc>
     <lastmod>2021-01-21T15:23:45+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/mans-search-for-meaning-highlights/</loc>
+    <loc>https://blog.saeedm.com/posts/mans-search-for-meaning-highlights/</loc>
     <lastmod>2021-01-17T16:08:20+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/2020-in-a-nutshell/</loc>
+    <loc>https://blog.saeedm.com/posts/2020-in-a-nutshell/</loc>
     <lastmod>2021-01-14T21:23:45+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/how-download-youtube-videos-by-php/</loc>
+    <loc>https://blog.saeedm.com/posts/how-download-youtube-videos-by-php/</loc>
     <lastmod>2020-04-16T21:37:50+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</loc>
+    <loc>https://blog.saeedm.com/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</loc>
     <lastmod>2020-04-11T00:11:44+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/tags/jwt/</loc>
+    <loc>https://blog.saeedm.com/tags/jwt/</loc>
     <lastmod>2020-04-11T00:11:44+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/tags/php/</loc>
+    <loc>https://blog.saeedm.com/tags/php/</loc>
     <lastmod>2020-04-11T00:11:44+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/tags/symfony/</loc>
+    <loc>https://blog.saeedm.com/tags/symfony/</loc>
     <lastmod>2020-04-11T00:11:44+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/what-i-learned-in-2018/</loc>
+    <loc>https://blog.saeedm.com/posts/what-i-learned-in-2018/</loc>
     <lastmod>2019-02-02T20:10:07+08:00</lastmod>
   </url><url>
-    <loc>https://keyboardsmash.dev/posts/simple-auto-deployer-with-php/</loc>
+    <loc>https://blog.saeedm.com/posts/simple-auto-deployer-with-php/</loc>
     <lastmod>2018-12-15T16:16:50+00:00</lastmod>
   </url>
 </urlset>

@@ -1,43 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Personal on Saeed&#39;s Blog</title>
-    <link>https://keyboardsmash.dev/categories/personal/</link>
+    <link>https://blog.saeedm.com/categories/personal/</link>
     <description>Recent content in Personal on Saeed&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <lastBuildDate>Sun, 29 Jan 2023 12:36:24 +0100</lastBuildDate>
-    <atom:link href="https://keyboardsmash.dev/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.saeedm.com/categories/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Next</title>
-      <link>https://keyboardsmash.dev/posts/what-next/</link>
+      <link>https://blog.saeedm.com/posts/what-next/</link>
       <pubDate>Sun, 29 Jan 2023 12:36:24 +0100</pubDate>
-      <guid>https://keyboardsmash.dev/posts/what-next/</guid>
-      <description>Steps towards a dream Since moving to Germany, I have struggled to find a long-term goal to guide my daily actions. My dream of living abroad, particularly in Germany, had been with me since my early twenties, but it wasn&amp;rsquo;t until my late twenties that I committed to making it a reality. To prepare for this move, I left my hometown and spent time in Tehran, where I gained valuable experience working in technology companies and tested my ability to live independently in a different city while dealing with the challenges that come with it.</description>
+      <guid>https://blog.saeedm.com/posts/what-next/</guid>
+      <description>&lt;h3 id=&#34;steps-towards-a-dream&#34;&gt;Steps towards a dream&lt;/h3&gt;
+&lt;p&gt;Since moving to Germany, I have struggled to find a long-term goal to guide my daily actions. My dream of living abroad, particularly in Germany, had been with me since my early twenties, but it wasn&amp;rsquo;t until my late twenties that I committed to making it a reality. To prepare for this move, I left my hometown and spent time in Tehran, where I gained valuable experience working in technology companies and tested my ability to live independently in a different city while dealing with the challenges that come with it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Doing the Dishes as an Act of Mindfullness</title>
-      <link>https://keyboardsmash.dev/posts/doing-the-dishes-as-an-act-of-mindfullness/</link>
+      <link>https://blog.saeedm.com/posts/doing-the-dishes-as-an-act-of-mindfullness/</link>
       <pubDate>Thu, 29 Jul 2021 22:48:26 +0800</pubDate>
-      <guid>https://keyboardsmash.dev/posts/doing-the-dishes-as-an-act-of-mindfullness/</guid>
-      <description>I don’t know why, but for me doing the dishes is one the worst aspect of life, especially when you have to do it after one of the best aspects of life, eating. Since I’ve been struggling to wash the dishes as soon as I use them, the result has always been a sink full of dirty and stinky dishes.
-I have tried many ways to overcome this laziness. One of those ways is to look at it as an act of mindfulness.</description>
+      <guid>https://blog.saeedm.com/posts/doing-the-dishes-as-an-act-of-mindfullness/</guid>
+      <description>&lt;p&gt;I don’t know why, but for me doing the dishes is one the worst aspect of life, especially when you have to do it after one of the best aspects of life, eating. Since I’ve been struggling to wash the dishes as soon as I use them, the result has always been a sink full of dirty and stinky dishes.&lt;/p&gt;
+&lt;p&gt;I have tried many ways to overcome this laziness. One of those ways is to look at it as an act of mindfulness. When I say mindfulness, I mean to be present at the moment and observe my feelings when I’m washing the dishes. You might ask, why don’t you focus on a piece of music and enjoy instead of focusing on the dishes and suffer? The honest answer is I don’t know, and the more complex answer is maybe by observing and being present at the moment, I can find an answer to why it feels painful to do the dishes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2020 in a Nutshell</title>
-      <link>https://keyboardsmash.dev/posts/2020-in-a-nutshell/</link>
+      <link>https://blog.saeedm.com/posts/2020-in-a-nutshell/</link>
       <pubDate>Thu, 14 Jan 2021 21:23:45 +0800</pubDate>
-      <guid>https://keyboardsmash.dev/posts/2020-in-a-nutshell/</guid>
-      <description>In March 2020, the government announced a lockdown. No one allows to go out except for shopping, and everyone must work from home. First of all, despite of the hard situation for every business, I was lucky that I didn’t get laid off and my salary remained untouched.
-After a few days of passing time at home, playing video games, and watching movies, I felt guilty that I’m not as productive as I should be and I’m not using my time efficiently.</description>
+      <guid>https://blog.saeedm.com/posts/2020-in-a-nutshell/</guid>
+      <description>&lt;p&gt;In March 2020, the government announced a lockdown. No one allows to go out except for shopping, and everyone must work from home. First of all, despite of the hard situation for every business, I was lucky that I didn’t get laid off and my salary remained untouched.&lt;/p&gt;
+&lt;p&gt;After a few days of passing time at home, playing video games, and watching movies, I felt guilty that I’m not as productive as I should be and I’m not using my time efficiently.
+I thought it’s better to take up some new skills to kill the time in a worthwhile way. After having a few beers, I wrote down a list of activities/skills that I’ve always wanted to do but I couldn’t find time to start them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What I Learned in 2018</title>
-      <link>https://keyboardsmash.dev/posts/what-i-learned-in-2018/</link>
+      <link>https://blog.saeedm.com/posts/what-i-learned-in-2018/</link>
       <pubDate>Sat, 02 Feb 2019 20:10:07 +0800</pubDate>
-      <guid>https://keyboardsmash.dev/posts/what-i-learned-in-2018/</guid>
-      <description>Today is the last day of 2018. This year, at least for me, was full of exciting events with an abundance of interesting happenings, which I feel makes me a better person going into 2019. Here are some of my experiences in the past year.
-Loneliness can’t hurt you, if you don’t want Actually, I learned it a couple of years ago, but sometimes you can forget about something important so much that maybe it will not hurt you.</description>
+      <guid>https://blog.saeedm.com/posts/what-i-learned-in-2018/</guid>
+      <description>&lt;p&gt;Today is the last day of 2018. This year, at least for me, was full of exciting events with an abundance of interesting happenings, which I feel makes me a better person going into 2019. Here are some of my experiences in the past year.&lt;/p&gt;
+&lt;h2 id=&#34;loneliness-cant-hurt-you-if-you-dont-want&#34;&gt;Loneliness can’t hurt you, if you don’t want&lt;/h2&gt;
+&lt;p&gt;Actually, I learned it a couple of years ago, but sometimes you can forget about something important so much that maybe it will not hurt you. Loneliness is one the most daunting challenges I have ever had in my life. From when I was a child until now, I’ve always felt lonely. But a couple of years ago, I asked myself why loneliness has the power to make me sad. Then I realized, if I couldn’t be happy with myself, I would never be happy with someone else. So I started to list all the things that would make me happy and then began to achieve them one by one. I was just curious, what was it like to be alone and happy at the same time. At first, it was hard not think about loneliness, but after a while I understood that I’m happy without even thinking about loneliness. Actually I learned to be my best friend and take care of myself, is would be the best thing I can do for myself because no one is going to do it for me.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
