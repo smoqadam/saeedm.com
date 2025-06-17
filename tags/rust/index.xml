@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rust on Saeed&#39;s Blog</title>
-    <link>https://blog.saeedm.com/tags/rust/</link>
+    <link>https://saeedm.com/tags/rust/</link>
     <description>Recent content in Rust on Saeed&#39;s Blog</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 May 2023 11:53:33 +0200</lastBuildDate>
-    <atom:link href="https://blog.saeedm.com/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://saeedm.com/tags/rust/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Base64 implementation in Rust - Part 2: decoding</title>
-      <link>https://blog.saeedm.com/posts/base64-implementation-in-rust-decoding/</link>
+      <link>https://saeedm.com/posts/base64-implementation-in-rust-decoding/</link>
       <pubDate>Thu, 25 May 2023 11:53:33 +0200</pubDate>
-      <guid>https://blog.saeedm.com/posts/base64-implementation-in-rust-decoding/</guid>
+      <guid>https://saeedm.com/posts/base64-implementation-in-rust-decoding/</guid>
       <description>&lt;p&gt;In the previous article, we explored how base64 encoding works and successfully implemented it in Rust. Now, let&amp;rsquo;s delve into the process of decoding a base64-encoded string. It is important to note that the implementations discussed here are primarily for educational purposes, and for production environments, it is recommended to employ well-established libraries.&lt;/p&gt;
 &lt;h2 id=&#34;theory&#34;&gt;Theory&lt;/h2&gt;
 &lt;p&gt;Here are the steps to decode a base64-encoded string:&lt;/p&gt;
@@ -27,9 +27,9 @@
     </item>
     <item>
       <title>Base64 Implementation in Rust - Part 1: encoding</title>
-      <link>https://blog.saeedm.com/posts/implementing-base64-algorithm-in-rust/</link>
+      <link>https://saeedm.com/posts/implementing-base64-algorithm-in-rust/</link>
       <pubDate>Tue, 16 May 2023 20:02:58 +0200</pubDate>
-      <guid>https://blog.saeedm.com/posts/implementing-base64-algorithm-in-rust/</guid>
+      <guid>https://saeedm.com/posts/implementing-base64-algorithm-in-rust/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been learning Rust on and off for quite a some time and every time I pick it up again I learn something new. A few days ago when I came back to it again, I was looking for a educational project to do and I decided to implement the Base64 algorithm in Rust. In this post, I will explain how to encode data to base64 in Rust. &lt;a href=&#34;https://keyboardsmash.dev/posts/base64-implementation-in-rust-decoding/&#34;&gt;Decoding from base64 will be covered in a separate blog post&lt;/a&gt;, but it&amp;rsquo;s worth practicing by implementing it yourself. I&amp;rsquo;ll share the resources I used at the end of this post.&lt;/p&gt;</description>
     </item>
   </channel>

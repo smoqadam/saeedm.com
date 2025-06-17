@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Saeed&#39;s Blog</title>
-    <link>https://blog.saeedm.com/tags/</link>
+    <link>https://saeedm.com/tags/</link>
     <description>Recent content in Tags on Saeed&#39;s Blog</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
     <lastBuildDate>Wed, 31 Jan 2024 13:54:58 +0100</lastBuildDate>
-    <atom:link href="https://blog.saeedm.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://saeedm.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git</title>
-      <link>https://blog.saeedm.com/tags/git/</link>
+      <link>https://saeedm.com/tags/git/</link>
       <pubDate>Wed, 31 Jan 2024 13:54:58 +0100</pubDate>
-      <guid>https://blog.saeedm.com/tags/git/</guid>
+      <guid>https://saeedm.com/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Rust</title>
-      <link>https://blog.saeedm.com/tags/rust/</link>
+      <link>https://saeedm.com/tags/rust/</link>
       <pubDate>Thu, 25 May 2023 11:53:33 +0200</pubDate>
-      <guid>https://blog.saeedm.com/tags/rust/</guid>
+      <guid>https://saeedm.com/tags/rust/</guid>
       <description></description>
     </item>
     <item>
       <title>Book</title>
-      <link>https://blog.saeedm.com/tags/book/</link>
+      <link>https://saeedm.com/tags/book/</link>
       <pubDate>Mon, 15 Feb 2021 16:08:20 +0800</pubDate>
-      <guid>https://blog.saeedm.com/tags/book/</guid>
+      <guid>https://saeedm.com/tags/book/</guid>
       <description></description>
     </item>
     <item>
       <title>Snippets</title>
-      <link>https://blog.saeedm.com/tags/snippets/</link>
+      <link>https://saeedm.com/tags/snippets/</link>
       <pubDate>Mon, 15 Feb 2021 16:08:20 +0800</pubDate>
-      <guid>https://blog.saeedm.com/tags/snippets/</guid>
+      <guid>https://saeedm.com/tags/snippets/</guid>
       <description></description>
     </item>
     <item>
       <title>Go</title>
-      <link>https://blog.saeedm.com/tags/go/</link>
+      <link>https://saeedm.com/tags/go/</link>
       <pubDate>Thu, 21 Jan 2021 15:23:45 +0800</pubDate>
-      <guid>https://blog.saeedm.com/tags/go/</guid>
+      <guid>https://saeedm.com/tags/go/</guid>
       <description></description>
     </item>
     <item>
       <title>Idea</title>
-      <link>https://blog.saeedm.com/tags/idea/</link>
+      <link>https://saeedm.com/tags/idea/</link>
       <pubDate>Thu, 21 Jan 2021 15:23:45 +0800</pubDate>
-      <guid>https://blog.saeedm.com/tags/idea/</guid>
+      <guid>https://saeedm.com/tags/idea/</guid>
       <description></description>
     </item>
     <item>
       <title>Jwt</title>
-      <link>https://blog.saeedm.com/tags/jwt/</link>
+      <link>https://saeedm.com/tags/jwt/</link>
       <pubDate>Sat, 11 Apr 2020 00:11:44 +0800</pubDate>
-      <guid>https://blog.saeedm.com/tags/jwt/</guid>
+      <guid>https://saeedm.com/tags/jwt/</guid>
       <description></description>
     </item>
     <item>
       <title>Php</title>
-      <link>https://blog.saeedm.com/tags/php/</link>
+      <link>https://saeedm.com/tags/php/</link>
       <pubDate>Sat, 11 Apr 2020 00:11:44 +0800</pubDate>
-      <guid>https://blog.saeedm.com/tags/php/</guid>
+      <guid>https://saeedm.com/tags/php/</guid>
       <description></description>
     </item>
     <item>
       <title>Symfony</title>
-      <link>https://blog.saeedm.com/tags/symfony/</link>
+      <link>https://saeedm.com/tags/symfony/</link>
       <pubDate>Sat, 11 Apr 2020 00:11:44 +0800</pubDate>
-      <guid>https://blog.saeedm.com/tags/symfony/</guid>
+      <guid>https://saeedm.com/tags/symfony/</guid>
       <description></description>
     </item>
   </channel>

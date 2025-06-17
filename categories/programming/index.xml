@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Programming on Saeed&#39;s Blog</title>
-    <link>https://blog.saeedm.com/categories/programming/</link>
+    <link>https://saeedm.com/categories/programming/</link>
     <description>Recent content in Programming on Saeed&#39;s Blog</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
     <lastBuildDate>Tue, 17 Jun 2025 17:23:45 +0800</lastBuildDate>
-    <atom:link href="https://blog.saeedm.com/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://saeedm.com/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build a Read-it-Later App Using Only GitHub Actions and Pages</title>
-      <link>https://blog.saeedm.com/posts/build-a-read-it-later-app-using-only-github-actions-and-pages/</link>
+      <link>https://saeedm.com/posts/build-a-read-it-later-app-using-only-github-actions-and-pages/</link>
       <pubDate>Tue, 17 Jun 2025 17:23:45 +0800</pubDate>
-      <guid>https://blog.saeedm.com/posts/build-a-read-it-later-app-using-only-github-actions-and-pages/</guid>
+      <guid>https://saeedm.com/posts/build-a-read-it-later-app-using-only-github-actions-and-pages/</guid>
       <description>&lt;p&gt;This is a little experiment: I wanted to see if I can build a read-it-later app using &lt;strong&gt;no backend&lt;/strong&gt;, no database, no real frontend even — just &lt;strong&gt;GitHub Actions&lt;/strong&gt; and &lt;strong&gt;GitHub Pages&lt;/strong&gt;. Turns out, yes, you can.&lt;/p&gt;
 &lt;p&gt;You save articles via a &lt;strong&gt;bookmarklet&lt;/strong&gt;, a GitHub Action runs and extracts the content, then stores it as HTML in your repo. Your saved articles get served as a simple static site with GitHub Pages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Global .gitignore</title>
-      <link>https://blog.saeedm.com/posts/global-gitignore/</link>
+      <link>https://saeedm.com/posts/global-gitignore/</link>
       <pubDate>Wed, 31 Jan 2024 13:54:58 +0100</pubDate>
-      <guid>https://blog.saeedm.com/posts/global-gitignore/</guid>
+      <guid>https://saeedm.com/posts/global-gitignore/</guid>
       <description>&lt;p&gt;I found myself adding &lt;code&gt;.idea&lt;/code&gt; and &lt;code&gt;.DS_STORE&lt;/code&gt; to &lt;code&gt;.gitignore&lt;/code&gt; in every repository I&amp;rsquo;ve been working on, but then I realized I could take advantage of Git&amp;rsquo;s global &lt;code&gt;.gitignore&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Base64 implementation in Rust - Part 2: decoding</title>
-      <link>https://blog.saeedm.com/posts/base64-implementation-in-rust-decoding/</link>
+      <link>https://saeedm.com/posts/base64-implementation-in-rust-decoding/</link>
       <pubDate>Thu, 25 May 2023 11:53:33 +0200</pubDate>
-      <guid>https://blog.saeedm.com/posts/base64-implementation-in-rust-decoding/</guid>
+      <guid>https://saeedm.com/posts/base64-implementation-in-rust-decoding/</guid>
       <description>&lt;p&gt;In the previous article, we explored how base64 encoding works and successfully implemented it in Rust. Now, let&amp;rsquo;s delve into the process of decoding a base64-encoded string. It is important to note that the implementations discussed here are primarily for educational purposes, and for production environments, it is recommended to employ well-established libraries.&lt;/p&gt;
 &lt;h2 id=&#34;theory&#34;&gt;Theory&lt;/h2&gt;
 &lt;p&gt;Here are the steps to decode a base64-encoded string:&lt;/p&gt;
@@ -42,32 +42,32 @@
     </item>
     <item>
       <title>Base64 Implementation in Rust - Part 1: encoding</title>
-      <link>https://blog.saeedm.com/posts/implementing-base64-algorithm-in-rust/</link>
+      <link>https://saeedm.com/posts/implementing-base64-algorithm-in-rust/</link>
       <pubDate>Tue, 16 May 2023 20:02:58 +0200</pubDate>
-      <guid>https://blog.saeedm.com/posts/implementing-base64-algorithm-in-rust/</guid>
+      <guid>https://saeedm.com/posts/implementing-base64-algorithm-in-rust/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been learning Rust on and off for quite a some time and every time I pick it up again I learn something new. A few days ago when I came back to it again, I was looking for a educational project to do and I decided to implement the Base64 algorithm in Rust. In this post, I will explain how to encode data to base64 in Rust. &lt;a href=&#34;https://keyboardsmash.dev/posts/base64-implementation-in-rust-decoding/&#34;&gt;Decoding from base64 will be covered in a separate blog post&lt;/a&gt;, but it&amp;rsquo;s worth practicing by implementing it yourself. I&amp;rsquo;ll share the resources I used at the end of this post.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A few ideas for your next Go project</title>
-      <link>https://blog.saeedm.com/posts/a-few-ideas-for-your-next-go-project/</link>
+      <link>https://saeedm.com/posts/a-few-ideas-for-your-next-go-project/</link>
       <pubDate>Thu, 21 Jan 2021 15:23:45 +0800</pubDate>
-      <guid>https://blog.saeedm.com/posts/a-few-ideas-for-your-next-go-project/</guid>
+      <guid>https://saeedm.com/posts/a-few-ideas-for-your-next-go-project/</guid>
       <description>&lt;p&gt;Have you ever been out of idea on what to code for your next open-source or side-project? As a beginner, you can find many resources and tutorials on different beginner-friendly projects out there. But when you pass that level, you just cannot come up with any interesting ideas to work on while you&amp;rsquo;re learning.&lt;/p&gt;
 &lt;p&gt;You can take any of these ideas for your next project, and dont&amp;rsquo; forget the purpose of doing this, is learning. So don&amp;rsquo;t be discourage if you see better alternatives
 out there.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to write a PHP Youtube video downloader</title>
-      <link>https://blog.saeedm.com/posts/how-download-youtube-videos-by-php/</link>
+      <link>https://saeedm.com/posts/how-download-youtube-videos-by-php/</link>
       <pubDate>Thu, 16 Apr 2020 21:37:50 +0800</pubDate>
-      <guid>https://blog.saeedm.com/posts/how-download-youtube-videos-by-php/</guid>
+      <guid>https://saeedm.com/posts/how-download-youtube-videos-by-php/</guid>
       <description>&lt;p&gt;PHP is not the best language for writing a download manager, but in this article, we are going to learn how we can download videos from Youtube. Because PHP does not support multithreading, we cannot make a proper download manager that split the file into several chunks and download it concurrently. There are some ways to add multithreading to PHP, but for the sake of this article, we won&amp;rsquo;t go through those ways and will stick to single threading.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Authenticate User in Symfony 5 by Jwt</title>
-      <link>https://blog.saeedm.com/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</link>
+      <link>https://saeedm.com/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</link>
       <pubDate>Sat, 11 Apr 2020 00:11:44 +0800</pubDate>
-      <guid>https://blog.saeedm.com/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</guid>
+      <guid>https://saeedm.com/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Nowadays, when we are talking about web development, regardless of the type of application or the programming language, one of the first things that come to mind is how to authenticate users. There are many types of authentication ways for this purpose such as login form, oAuth, JWT, API token, etc.&lt;/p&gt;
 &lt;p&gt;Reliability, security, easy to use and widely supported in many platform and languages make JWT one of the most popular authentication protocols in the web ecosystem.&lt;/p&gt;

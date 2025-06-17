@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://blog.saeedm.com/sitemap.xml
+Sitemap: https://saeedm.com/sitemap.xml

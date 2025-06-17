@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Saeed&#39;s Blog</title>
-    <link>https://blog.saeedm.com/</link>
+    <link>https://saeedm.com/</link>
     <description>Recent content on Saeed&#39;s Blog</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
     <lastBuildDate>Tue, 17 Jun 2025 17:23:45 +0800</lastBuildDate>
-    <atom:link href="https://blog.saeedm.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://saeedm.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build a Read-it-Later App Using Only GitHub Actions and Pages</title>
-      <link>https://blog.saeedm.com/posts/build-a-read-it-later-app-using-only-github-actions-and-pages/</link>
+      <link>https://saeedm.com/posts/build-a-read-it-later-app-using-only-github-actions-and-pages/</link>
       <pubDate>Tue, 17 Jun 2025 17:23:45 +0800</pubDate>
-      <guid>https://blog.saeedm.com/posts/build-a-read-it-later-app-using-only-github-actions-and-pages/</guid>
+      <guid>https://saeedm.com/posts/build-a-read-it-later-app-using-only-github-actions-and-pages/</guid>
       <description>&lt;p&gt;This is a little experiment: I wanted to see if I can build a read-it-later app using &lt;strong&gt;no backend&lt;/strong&gt;, no database, no real frontend even — just &lt;strong&gt;GitHub Actions&lt;/strong&gt; and &lt;strong&gt;GitHub Pages&lt;/strong&gt;. Turns out, yes, you can.&lt;/p&gt;
 &lt;p&gt;You save articles via a &lt;strong&gt;bookmarklet&lt;/strong&gt;, a GitHub Action runs and extracts the content, then stores it as HTML in your repo. Your saved articles get served as a simple static site with GitHub Pages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Global .gitignore</title>
-      <link>https://blog.saeedm.com/posts/global-gitignore/</link>
+      <link>https://saeedm.com/posts/global-gitignore/</link>
       <pubDate>Wed, 31 Jan 2024 13:54:58 +0100</pubDate>
-      <guid>https://blog.saeedm.com/posts/global-gitignore/</guid>
+      <guid>https://saeedm.com/posts/global-gitignore/</guid>
       <description>&lt;p&gt;I found myself adding &lt;code&gt;.idea&lt;/code&gt; and &lt;code&gt;.DS_STORE&lt;/code&gt; to &lt;code&gt;.gitignore&lt;/code&gt; in every repository I&amp;rsquo;ve been working on, but then I realized I could take advantage of Git&amp;rsquo;s global &lt;code&gt;.gitignore&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Journey of Life</title>
-      <link>https://blog.saeedm.com/posts/journey-of-life/</link>
+      <link>https://saeedm.com/posts/journey-of-life/</link>
       <pubDate>Mon, 26 Jun 2023 13:32:54 +0200</pubDate>
-      <guid>https://blog.saeedm.com/posts/journey-of-life/</guid>
+      <guid>https://saeedm.com/posts/journey-of-life/</guid>
       <description>&lt;p&gt;&amp;ldquo;Wherever you’re hoping to get to in life, the quality of the journey must be more important than those fleeting moments when you actually seem to arrive at your destination. Because most of your life is the journey, most of your life is a process of solving problems. It is not and never will be the condition of basking in the absence of all problems. You will always have something to do. So, the frame of mind in which you do these things will determine the quality of your life. Above all, there’s one mistake, you cannot afford to make, you can’t wait until you solve your problems to be happy.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Base64 implementation in Rust - Part 2: decoding</title>
-      <link>https://blog.saeedm.com/posts/base64-implementation-in-rust-decoding/</link>
+      <link>https://saeedm.com/posts/base64-implementation-in-rust-decoding/</link>
       <pubDate>Thu, 25 May 2023 11:53:33 +0200</pubDate>
-      <guid>https://blog.saeedm.com/posts/base64-implementation-in-rust-decoding/</guid>
+      <guid>https://saeedm.com/posts/base64-implementation-in-rust-decoding/</guid>
       <description>&lt;p&gt;In the previous article, we explored how base64 encoding works and successfully implemented it in Rust. Now, let&amp;rsquo;s delve into the process of decoding a base64-encoded string. It is important to note that the implementations discussed here are primarily for educational purposes, and for production environments, it is recommended to employ well-established libraries.&lt;/p&gt;
 &lt;h2 id=&#34;theory&#34;&gt;Theory&lt;/h2&gt;
 &lt;p&gt;Here are the steps to decode a base64-encoded string:&lt;/p&gt;
@@ -49,16 +49,16 @@
     </item>
     <item>
       <title>Base64 Implementation in Rust - Part 1: encoding</title>
-      <link>https://blog.saeedm.com/posts/implementing-base64-algorithm-in-rust/</link>
+      <link>https://saeedm.com/posts/implementing-base64-algorithm-in-rust/</link>
       <pubDate>Tue, 16 May 2023 20:02:58 +0200</pubDate>
-      <guid>https://blog.saeedm.com/posts/implementing-base64-algorithm-in-rust/</guid>
+      <guid>https://saeedm.com/posts/implementing-base64-algorithm-in-rust/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been learning Rust on and off for quite a some time and every time I pick it up again I learn something new. A few days ago when I came back to it again, I was looking for a educational project to do and I decided to implement the Base64 algorithm in Rust. In this post, I will explain how to encode data to base64 in Rust. &lt;a href=&#34;https://keyboardsmash.dev/posts/base64-implementation-in-rust-decoding/&#34;&gt;Decoding from base64 will be covered in a separate blog post&lt;/a&gt;, but it&amp;rsquo;s worth practicing by implementing it yourself. I&amp;rsquo;ll share the resources I used at the end of this post.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deploy Hugo on Github Pages with GitHub Actions</title>
-      <link>https://blog.saeedm.com/posts/deploy-hugo-into-github-pages/</link>
+      <link>https://saeedm.com/posts/deploy-hugo-into-github-pages/</link>
       <pubDate>Tue, 07 Feb 2023 14:30:15 +0100</pubDate>
-      <guid>https://blog.saeedm.com/posts/deploy-hugo-into-github-pages/</guid>
+      <guid>https://saeedm.com/posts/deploy-hugo-into-github-pages/</guid>
       <description>&lt;p&gt;For the start, you will require two repositories: one to store your Hugo project, and the other to host the GitHub page with the static files generated by Hugo.&lt;/p&gt;
 &lt;h3 id=&#34;configuring-github-pages&#34;&gt;Configuring GitHub Pages&lt;/h3&gt;
 &lt;p&gt;GitHub Pages is a straightforward solution for hosting a static website. You can find more information on how to set up your GitHub Pages in the relevant documentation.&lt;/p&gt;
@@ -66,16 +66,16 @@
     </item>
     <item>
       <title>About</title>
-      <link>https://blog.saeedm.com/about/</link>
+      <link>https://saeedm.com/about/</link>
       <pubDate>Wed, 01 Feb 2023 11:25:26 +0100</pubDate>
-      <guid>https://blog.saeedm.com/about/</guid>
+      <guid>https://saeedm.com/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Today&#39;s Mantra</title>
-      <link>https://blog.saeedm.com/posts/today-s-mantra/</link>
+      <link>https://saeedm.com/posts/today-s-mantra/</link>
       <pubDate>Wed, 01 Feb 2023 10:23:52 +0100</pubDate>
-      <guid>https://blog.saeedm.com/posts/today-s-mantra/</guid>
+      <guid>https://saeedm.com/posts/today-s-mantra/</guid>
       <description>&lt;p&gt;Let&amp;rsquo;s approach today differently.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s be mindful.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s not worry about the future.&lt;/p&gt;
@@ -85,26 +85,26 @@
     </item>
     <item>
       <title>What Next</title>
-      <link>https://blog.saeedm.com/posts/what-next/</link>
+      <link>https://saeedm.com/posts/what-next/</link>
       <pubDate>Sun, 29 Jan 2023 12:36:24 +0100</pubDate>
-      <guid>https://blog.saeedm.com/posts/what-next/</guid>
+      <guid>https://saeedm.com/posts/what-next/</guid>
       <description>&lt;h3 id=&#34;steps-towards-a-dream&#34;&gt;Steps towards a dream&lt;/h3&gt;
 &lt;p&gt;Since moving to Germany, I have struggled to find a long-term goal to guide my daily actions. My dream of living abroad, particularly in Germany, had been with me since my early twenties, but it wasn&amp;rsquo;t until my late twenties that I committed to making it a reality. To prepare for this move, I left my hometown and spent time in Tehran, where I gained valuable experience working in technology companies and tested my ability to live independently in a different city while dealing with the challenges that come with it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Books I Loved Most in 2021</title>
-      <link>https://blog.saeedm.com/posts/books-i-loved-most-in-2021/</link>
+      <link>https://saeedm.com/posts/books-i-loved-most-in-2021/</link>
       <pubDate>Wed, 05 Jan 2022 14:36:29 +0100</pubDate>
-      <guid>https://blog.saeedm.com/posts/books-i-loved-most-in-2021/</guid>
+      <guid>https://saeedm.com/posts/books-i-loved-most-in-2021/</guid>
       <description>&lt;p&gt;In terms of reading, 2021 was a productive year for me. I read several books, here is the list of those that I loved most.&lt;/p&gt;
 &lt;h3 id=&#34;outliers-the-story-of-success&#34;&gt;Outliers: The Story of Success&lt;/h3&gt;
 &lt;p&gt;When the books I had ordered online were delivered to me, I saw the Outliers were also in the package. I was disappointed because I hadn’t ordered this, and after contacting the seller, he said he mistakenly put this book instead of another book that I’d ordered. Because he had put another book in the package, I decided to keep the book, although I’m not a fan the books about success. But the Outliers proved me wrong. This book is not about how to be an outlier; &lt;em&gt;it’s about the hidden opportunities that outliers benefit from&lt;/em&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>To remember during the bad days</title>
-      <link>https://blog.saeedm.com/posts/to-remember-during-the-bad-days/</link>
+      <link>https://saeedm.com/posts/to-remember-during-the-bad-days/</link>
       <pubDate>Mon, 16 Aug 2021 21:23:45 +0800</pubDate>
-      <guid>https://blog.saeedm.com/posts/to-remember-during-the-bad-days/</guid>
+      <guid>https://saeedm.com/posts/to-remember-during-the-bad-days/</guid>
       <description>&lt;p&gt;&lt;em&gt;It won&amp;rsquo;t last.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;You have felt other things. You will feel other things again.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Emotions are like weather. They change and shift. Clouds can seem as still as stone. We look at them and hardly notice a change at all. And yet they always move.&lt;/em&gt;&lt;/p&gt;
@@ -112,17 +112,17 @@
     </item>
     <item>
       <title>Doing the Dishes as an Act of Mindfullness</title>
-      <link>https://blog.saeedm.com/posts/doing-the-dishes-as-an-act-of-mindfullness/</link>
+      <link>https://saeedm.com/posts/doing-the-dishes-as-an-act-of-mindfullness/</link>
       <pubDate>Thu, 29 Jul 2021 22:48:26 +0800</pubDate>
-      <guid>https://blog.saeedm.com/posts/doing-the-dishes-as-an-act-of-mindfullness/</guid>
+      <guid>https://saeedm.com/posts/doing-the-dishes-as-an-act-of-mindfullness/</guid>
       <description>&lt;p&gt;I don’t know why, but for me doing the dishes is one the worst aspect of life, especially when you have to do it after one of the best aspects of life, eating. Since I’ve been struggling to wash the dishes as soon as I use them, the result has always been a sink full of dirty and stinky dishes.&lt;/p&gt;
 &lt;p&gt;I have tried many ways to overcome this laziness. One of those ways is to look at it as an act of mindfulness. When I say mindfulness, I mean to be present at the moment and observe my feelings when I’m washing the dishes. You might ask, why don’t you focus on a piece of music and enjoy instead of focusing on the dishes and suffer? The honest answer is I don’t know, and the more complex answer is maybe by observing and being present at the moment, I can find an answer to why it feels painful to do the dishes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Obstacle Is the Way by Ryan Holiday - Highlights</title>
-      <link>https://blog.saeedm.com/posts/the-obstacle-is-the-way-by-ryan-holiday-highlights/</link>
+      <link>https://saeedm.com/posts/the-obstacle-is-the-way-by-ryan-holiday-highlights/</link>
       <pubDate>Mon, 15 Feb 2021 16:08:20 +0800</pubDate>
-      <guid>https://blog.saeedm.com/posts/the-obstacle-is-the-way-by-ryan-holiday-highlights/</guid>
+      <guid>https://saeedm.com/posts/the-obstacle-is-the-way-by-ryan-holiday-highlights/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;you can focus your energy exclusively on solving problems, rather than reacting to them.&lt;/li&gt;
 &lt;/ul&gt;
@@ -173,18 +173,18 @@
     </item>
     <item>
       <title>A few ideas for your next Go project</title>
-      <link>https://blog.saeedm.com/posts/a-few-ideas-for-your-next-go-project/</link>
+      <link>https://saeedm.com/posts/a-few-ideas-for-your-next-go-project/</link>
       <pubDate>Thu, 21 Jan 2021 15:23:45 +0800</pubDate>
-      <guid>https://blog.saeedm.com/posts/a-few-ideas-for-your-next-go-project/</guid>
+      <guid>https://saeedm.com/posts/a-few-ideas-for-your-next-go-project/</guid>
       <description>&lt;p&gt;Have you ever been out of idea on what to code for your next open-source or side-project? As a beginner, you can find many resources and tutorials on different beginner-friendly projects out there. But when you pass that level, you just cannot come up with any interesting ideas to work on while you&amp;rsquo;re learning.&lt;/p&gt;
 &lt;p&gt;You can take any of these ideas for your next project, and dont&amp;rsquo; forget the purpose of doing this, is learning. So don&amp;rsquo;t be discourage if you see better alternatives
 out there.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Man&#39;s Search for Meaning by Victor Frankl - Highlights</title>
-      <link>https://blog.saeedm.com/posts/mans-search-for-meaning-highlights/</link>
+      <link>https://saeedm.com/posts/mans-search-for-meaning-highlights/</link>
       <pubDate>Sun, 17 Jan 2021 16:08:20 +0800</pubDate>
-      <guid>https://blog.saeedm.com/posts/mans-search-for-meaning-highlights/</guid>
+      <guid>https://saeedm.com/posts/mans-search-for-meaning-highlights/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Nietzsche: “He who has a Why to live for, can bear almost any How.”&lt;/li&gt;
 &lt;/ul&gt;
@@ -271,25 +271,25 @@ out there.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2020 in a Nutshell</title>
-      <link>https://blog.saeedm.com/posts/2020-in-a-nutshell/</link>
+      <link>https://saeedm.com/posts/2020-in-a-nutshell/</link>
       <pubDate>Thu, 14 Jan 2021 21:23:45 +0800</pubDate>
-      <guid>https://blog.saeedm.com/posts/2020-in-a-nutshell/</guid>
+      <guid>https://saeedm.com/posts/2020-in-a-nutshell/</guid>
       <description>&lt;p&gt;In March 2020, the government announced a lockdown. No one allows to go out except for shopping, and everyone must work from home. First of all, despite of the hard situation for every business, I was lucky that I didn’t get laid off and my salary remained untouched.&lt;/p&gt;
 &lt;p&gt;After a few days of passing time at home, playing video games, and watching movies, I felt guilty that I’m not as productive as I should be and I’m not using my time efficiently.
 I thought it’s better to take up some new skills to kill the time in a worthwhile way. After having a few beers, I wrote down a list of activities/skills that I’ve always wanted to do but I couldn’t find time to start them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to write a PHP Youtube video downloader</title>
-      <link>https://blog.saeedm.com/posts/how-download-youtube-videos-by-php/</link>
+      <link>https://saeedm.com/posts/how-download-youtube-videos-by-php/</link>
       <pubDate>Thu, 16 Apr 2020 21:37:50 +0800</pubDate>
-      <guid>https://blog.saeedm.com/posts/how-download-youtube-videos-by-php/</guid>
+      <guid>https://saeedm.com/posts/how-download-youtube-videos-by-php/</guid>
       <description>&lt;p&gt;PHP is not the best language for writing a download manager, but in this article, we are going to learn how we can download videos from Youtube. Because PHP does not support multithreading, we cannot make a proper download manager that split the file into several chunks and download it concurrently. There are some ways to add multithreading to PHP, but for the sake of this article, we won&amp;rsquo;t go through those ways and will stick to single threading.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Authenticate User in Symfony 5 by Jwt</title>
-      <link>https://blog.saeedm.com/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</link>
+      <link>https://saeedm.com/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</link>
       <pubDate>Sat, 11 Apr 2020 00:11:44 +0800</pubDate>
-      <guid>https://blog.saeedm.com/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</guid>
+      <guid>https://saeedm.com/posts/how-to-authenticate-user-in-symfony-5-by-jwt/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Nowadays, when we are talking about web development, regardless of the type of application or the programming language, one of the first things that come to mind is how to authenticate users. There are many types of authentication ways for this purpose such as login form, oAuth, JWT, API token, etc.&lt;/p&gt;
 &lt;p&gt;Reliability, security, easy to use and widely supported in many platform and languages make JWT one of the most popular authentication protocols in the web ecosystem.&lt;/p&gt;
@@ -297,18 +297,18 @@ I thought it’s better to take up some new skills to kill the time in a worthwh
     </item>
     <item>
       <title>What I Learned in 2018</title>
-      <link>https://blog.saeedm.com/posts/what-i-learned-in-2018/</link>
+      <link>https://saeedm.com/posts/what-i-learned-in-2018/</link>
       <pubDate>Sat, 02 Feb 2019 20:10:07 +0800</pubDate>
-      <guid>https://blog.saeedm.com/posts/what-i-learned-in-2018/</guid>
+      <guid>https://saeedm.com/posts/what-i-learned-in-2018/</guid>
       <description>&lt;p&gt;Today is the last day of 2018. This year, at least for me, was full of exciting events with an abundance of interesting happenings, which I feel makes me a better person going into 2019. Here are some of my experiences in the past year.&lt;/p&gt;
 &lt;h2 id=&#34;loneliness-cant-hurt-you-if-you-dont-want&#34;&gt;Loneliness can’t hurt you, if you don’t want&lt;/h2&gt;
 &lt;p&gt;Actually, I learned it a couple of years ago, but sometimes you can forget about something important so much that maybe it will not hurt you. Loneliness is one the most daunting challenges I have ever had in my life. From when I was a child until now, I’ve always felt lonely. But a couple of years ago, I asked myself why loneliness has the power to make me sad. Then I realized, if I couldn’t be happy with myself, I would never be happy with someone else. So I started to list all the things that would make me happy and then began to achieve them one by one. I was just curious, what was it like to be alone and happy at the same time. At first, it was hard not think about loneliness, but after a while I understood that I’m happy without even thinking about loneliness. Actually I learned to be my best friend and take care of myself, is would be the best thing I can do for myself because no one is going to do it for me.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Simple auto deployer with PHP</title>
-      <link>https://blog.saeedm.com/posts/simple-auto-deployer-with-php/</link>
+      <link>https://saeedm.com/posts/simple-auto-deployer-with-php/</link>
       <pubDate>Sat, 15 Dec 2018 16:16:50 +0000</pubDate>
-      <guid>https://blog.saeedm.com/posts/simple-auto-deployer-with-php/</guid>
+      <guid>https://saeedm.com/posts/simple-auto-deployer-with-php/</guid>
       <description>&lt;p&gt;How you deploy your projects? Are you using fancy things like Jenkins with lots of features and configuration that you don&amp;rsquo;t even know about? For one of my personal projects, I needed to have a deployment tools. I tried to install and configure Jenkins but there was no chance to make it up and running. So I decided to write my own, simple deployer with PHP.&lt;/p&gt;
 &lt;h3 id=&#34;git-hooks&#34;&gt;Git Hooks&lt;/h3&gt;
 &lt;p&gt;For this article we are using Git hooks. Git hooks are a script that Git runs before or after some events are triggered such as: commit, push, merge, creating a branch and so on. Although the equivalent of Git Hooks in  web-based Git platforms such as Github, Gitlab or bitbucket are Webhooks, which instead of running a script, call a URL (usually in your server).&lt;/p&gt;</description>
