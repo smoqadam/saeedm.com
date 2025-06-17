@@ -4,10 +4,18 @@
     <title>Posts on Saeed&#39;s Blog</title>
     <link>https://blog.saeedm.com/posts/</link>
     <description>Recent content in Posts on Saeed&#39;s Blog</description>
-    <generator>Hugo -- 0.139.3</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Jan 2024 13:54:58 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 17:23:45 +0800</lastBuildDate>
     <atom:link href="https://blog.saeedm.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build a Read-it-Later App Using Only GitHub Actions and Pages</title>
+      <link>https://blog.saeedm.com/posts/build-a-read-it-later-app-using-only-github-actions-and-pages/</link>
+      <pubDate>Tue, 17 Jun 2025 17:23:45 +0800</pubDate>
+      <guid>https://blog.saeedm.com/posts/build-a-read-it-later-app-using-only-github-actions-and-pages/</guid>
+      <description>&lt;p&gt;This is a little experiment: I wanted to see if I can build a read-it-later app using &lt;strong&gt;no backend&lt;/strong&gt;, no database, no real frontend even — just &lt;strong&gt;GitHub Actions&lt;/strong&gt; and &lt;strong&gt;GitHub Pages&lt;/strong&gt;. Turns out, yes, you can.&lt;/p&gt;
+&lt;p&gt;You save articles via a &lt;strong&gt;bookmarklet&lt;/strong&gt;, a GitHub Action runs and extracts the content, then stores it as HTML in your repo. Your saved articles get served as a simple static site with GitHub Pages.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Global .gitignore</title>
       <link>https://blog.saeedm.com/posts/global-gitignore/</link>

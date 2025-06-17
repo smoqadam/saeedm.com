@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.saeedm.com/posts/build-a-read-it-later-app-using-only-github-actions-and-pages/</loc>
+    <lastmod>2025-06-17T17:23:45+08:00</lastmod>
+  </url><url>
     <loc>https://blog.saeedm.com/categories/</loc>
-    <lastmod>2024-01-31T13:54:58+01:00</lastmod>
+    <lastmod>2025-06-17T17:23:45+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.saeedm.com/posts/</loc>
+    <lastmod>2025-06-17T17:23:45+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.saeedm.com/categories/programming/</loc>
+    <lastmod>2025-06-17T17:23:45+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.saeedm.com/</loc>
+    <lastmod>2025-06-17T17:23:45+08:00</lastmod>
   </url><url>
     <loc>https://blog.saeedm.com/tags/git/</loc>
     <lastmod>2024-01-31T13:54:58+01:00</lastmod>
   </url><url>
     <loc>https://blog.saeedm.com/posts/global-gitignore/</loc>
-    <lastmod>2024-01-31T13:54:58+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.saeedm.com/posts/</loc>
-    <lastmod>2024-01-31T13:54:58+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.saeedm.com/categories/programming/</loc>
-    <lastmod>2024-01-31T13:54:58+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.saeedm.com/</loc>
     <lastmod>2024-01-31T13:54:58+01:00</lastmod>
   </url><url>
     <loc>https://blog.saeedm.com/tags/</loc>
