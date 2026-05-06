@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://saeedm.com/categories/</loc>
+    <lastmod>2026-05-06T21:37:59+02:00</lastmod>
+  </url><url>
+    <loc>https://saeedm.com/categories/personal/</loc>
+    <lastmod>2026-05-06T21:37:59+02:00</lastmod>
+  </url><url>
+    <loc>https://saeedm.com/posts/</loc>
+    <lastmod>2026-05-06T21:37:59+02:00</lastmod>
+  </url><url>
+    <loc>https://saeedm.com/</loc>
+    <lastmod>2026-05-06T21:37:59+02:00</lastmod>
+  </url><url>
+    <loc>https://saeedm.com/categories/thoughts/</loc>
+    <lastmod>2026-05-06T21:37:59+02:00</lastmod>
+  </url><url>
+    <loc>https://saeedm.com/posts/planning-for-future-self/</loc>
+    <lastmod>2026-05-06T21:37:59+02:00</lastmod>
+  </url><url>
     <loc>https://saeedm.com/posts/build-a-read-it-later-app-using-only-github-actions-and-pages/</loc>
     <lastmod>2025-06-17T17:23:45+08:00</lastmod>
   </url><url>
-    <loc>https://saeedm.com/categories/</loc>
-    <lastmod>2025-06-17T17:23:45+08:00</lastmod>
-  </url><url>
-    <loc>https://saeedm.com/posts/</loc>
-    <lastmod>2025-06-17T17:23:45+08:00</lastmod>
-  </url><url>
     <loc>https://saeedm.com/categories/programming/</loc>
-    <lastmod>2025-06-17T17:23:45+08:00</lastmod>
-  </url><url>
-    <loc>https://saeedm.com/</loc>
     <lastmod>2025-06-17T17:23:45+08:00</lastmod>
   </url><url>
     <loc>https://saeedm.com/tags/git/</loc>
@@ -49,9 +58,6 @@
   </url><url>
     <loc>https://saeedm.com/posts/today-s-mantra/</loc>
     <lastmod>2023-02-01T10:23:52+01:00</lastmod>
-  </url><url>
-    <loc>https://saeedm.com/categories/personal/</loc>
-    <lastmod>2023-01-29T12:36:24+01:00</lastmod>
   </url><url>
     <loc>https://saeedm.com/posts/what-next/</loc>
     <lastmod>2023-01-29T12:36:24+01:00</lastmod>
