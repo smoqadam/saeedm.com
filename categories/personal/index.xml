@@ -6,14 +6,23 @@
     <description>Recent content in Personal on Saeed&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 21:37:59 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 20:29:01 +0200</lastBuildDate>
     <atom:link href="https://saeedm.com/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>افکار پراکنده در مورد AI</title>
+      <link>https://saeedm.com/posts/on-ai/</link>
+      <pubDate>Sun, 24 May 2026 20:29:01 +0200</pubDate>
+      <guid>https://saeedm.com/posts/on-ai/</guid>
+      <description>&lt;p&gt;در دو سه سال گذشته هوش مصنوعی از یه تب‌وتاب تکنولوژیک به یه واقعیت ملموس توی زندگی همه ما تبدیل شده. توی حرفه من یعنی برنامه‌نویسی، حضور AI از بقیه تخصص‌ها خیلی بیشتر حس میشه.&lt;/p&gt;
+&lt;p&gt;بر اساس تجربه من، AI اگه درست هدایت بشه، بیش از حد خوبه. به جرئت می‌تونم بگم توی یک سال گذشته حتی یه خط کد هم ننوشتم.
+میشه گفت از یه برنامه‌نویس تبدیل شدم به یه راهنما برای AI. معمولاً موقع کار با هوش مصنوعی، Claude Code یا GitHub Copilot رو توی پلن‌مد میذارم و اون‌قدر با agent حرف می‌زنم تا به یه نقطه‌نظر مشترک برسیم. وسط این گفت‌وگوها، AI هم پیشنهاد میده، هم از ایده‌های من انتقاد می‌کنه، هم راه‌های مختلفی برای حل مسئله پیشنهاد میده. راه‌هایی که شاید به‌راحتی به ذهن من نمی‌رسیدن. چون AI agent به خاطر حجم عظیم داده‌ای که داره، تقریباً توی هر حوزه‌ای زاویه دید بازتری داره؛ زاویه‌ای که من لزوماً ندارم.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>وقتی برای «منِ آینده» تصمیم می‌گیرم</title>
       <link>https://saeedm.com/posts/planning-for-future-self/</link>
       <pubDate>Wed, 06 May 2026 21:37:59 +0200</pubDate>
       <guid>https://saeedm.com/posts/planning-for-future-self/</guid>
-      <description>&lt;span style=&#34;font-family: Tahoma;font-size:16px&#34;&gt;
+      <description>&lt;span style=&#39;font-family: &#34;Parastoo&#34;;font-size:18px&#39;&gt;
 &lt;p&gt;چند وقت پیش داشتم کتاب &lt;em&gt;Stumbling Upon Happiness&lt;/em&gt; از Daniel Gilbert رو می‌خوندم. ایده‌ای که مطرح می‌کنه ساده‌ست، اما کمی هم آزاردهنده: ما وقتی برای آینده برنامه‌ریزی می‌کنیم، در واقع داریم برای کسی تصمیم می‌گیریم که خیلی هم نمی‌شناسیمش. همون «منِ آینده» که قراره از نتیجه‌ی این همه تلاش راضی باشه. مسئله اینه که از کجا معلوم اون آدم دقیقاً همون چیزهایی رو بخواد که منِ امروز فکر می‌کنم؟&lt;/p&gt;</description>
     </item>
     <item>

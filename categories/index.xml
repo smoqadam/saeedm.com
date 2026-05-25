@@ -6,19 +6,26 @@
     <description>Recent content in Categories on Saeed&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 21:37:59 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 20:29:01 +0200</lastBuildDate>
     <atom:link href="https://saeedm.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://saeedm.com/categories/ai/</link>
+      <pubDate>Sun, 24 May 2026 20:29:01 +0200</pubDate>
+      <guid>https://saeedm.com/categories/ai/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Personal</title>
       <link>https://saeedm.com/categories/personal/</link>
-      <pubDate>Wed, 06 May 2026 21:37:59 +0200</pubDate>
+      <pubDate>Sun, 24 May 2026 20:29:01 +0200</pubDate>
       <guid>https://saeedm.com/categories/personal/</guid>
       <description></description>
     </item>
     <item>
       <title>Thoughts</title>
       <link>https://saeedm.com/categories/thoughts/</link>
-      <pubDate>Wed, 06 May 2026 21:37:59 +0200</pubDate>
+      <pubDate>Sun, 24 May 2026 20:29:01 +0200</pubDate>
       <guid>https://saeedm.com/categories/thoughts/</guid>
       <description></description>
     </item>
