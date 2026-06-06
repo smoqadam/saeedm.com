@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://saeedm.com/posts/</loc>
+    <lastmod>2026-06-06T17:20:32+02:00</lastmod>
+  </url><url>
+    <loc>https://saeedm.com/</loc>
+    <lastmod>2026-06-06T17:20:32+02:00</lastmod>
+  </url><url>
+    <loc>https://saeedm.com/posts/til-fernweh/</loc>
+    <lastmod>2026-06-06T17:20:32+02:00</lastmod>
+  </url><url>
     <loc>https://saeedm.com/categories/ai/</loc>
     <lastmod>2026-05-24T20:29:01+02:00</lastmod>
   </url><url>
@@ -9,12 +18,6 @@
     <lastmod>2026-05-24T20:29:01+02:00</lastmod>
   </url><url>
     <loc>https://saeedm.com/categories/personal/</loc>
-    <lastmod>2026-05-24T20:29:01+02:00</lastmod>
-  </url><url>
-    <loc>https://saeedm.com/posts/</loc>
-    <lastmod>2026-05-24T20:29:01+02:00</lastmod>
-  </url><url>
-    <loc>https://saeedm.com/</loc>
     <lastmod>2026-05-24T20:29:01+02:00</lastmod>
   </url><url>
     <loc>https://saeedm.com/categories/thoughts/</loc>
